@@ -1,0 +1,30 @@
+.eva-btn-normal{
+    color: #0062FF;
+    border-left: 7px solid #0062FF;
+    display: inline-block;
+    padding: 5px;
+    text-decoration: none;
+    background-color: rgba(0,191,255,0.3);
+    /*fontは適当にしてる*/
+    font: 20px Arial, sans-serif;
+  }
+  .eva-btn-normal:hover{
+    color: #00BFFF;
+    border-left: 7px solid #00BFFF;
+    background-color: rgba(0,191,255,0.5);
+  }
+.eva-btn-emergency{
+    color: #FF4500;
+    border-left: 7px solid #FF4500;
+    display: inline-block;
+    padding: 5px;
+    text-decoration: none;
+    background-color: rgba(255,165,0,0.3);
+    /*fontは適当にしてる*/
+    font: 20px Arial, sans-serif;
+  }
+  .eva-btn-emergency:hover{
+    color: #FFA500;
+    border-left: 7px solid #FFA500;
+    background-color: rgba(255,165,0,0.5);
+  }
