@@ -5,13 +5,13 @@
     padding: 5px;
     text-decoration: none;
     background-color: rgba(0,191,255,0.3);
-  }
-  .sdd-btn-normal:hover{
+}
+.sdd-btn-normal:hover{
     color: #00BFFF;
     border-left: 7px solid #00BFFF;
     background-color: rgba(0,191,255,0.5);
     text-decoration: none;
-  }
+}
 .sdd-btn-emergency{
     color: #FF4500;
     border-left: 7px solid #FF4500;
@@ -19,10 +19,21 @@
     padding: 5px;
     text-decoration: none;
     background-color: rgba(255,165,0,0.3);
-  }
-  .sdd-btn-emergency:hover{
+}
+.sdd-btn-emergency:hover{
     color: #FFA500;
     border-left: 7px solid #FFA500;
     background-color: rgba(255,165,0,0.5);
     text-decoration: none;
-  }
+}
+
+.sdd-group-normal{
+    background-color: rgba(0,191,255,0.2);    
+    border-left: 7px solid #0062FF;
+    padding: 5px;
+}
+.sdd-group-emergency{
+    background-color: rgba(255,165,0,0.2);    
+    border-left: 7px solid #FFA500;
+    padding: 5px;
+}
