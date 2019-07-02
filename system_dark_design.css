@@ -5,8 +5,6 @@
     padding: 5px;
     text-decoration: none;
     background-color: rgba(0,191,255,0.3);
-    /*fontは適当にしてる*/
-    font: 20px Arial, sans-serif;
   }
   .sdd-btn-normal:hover{
     color: #00BFFF;
@@ -21,8 +19,6 @@
     padding: 5px;
     text-decoration: none;
     background-color: rgba(255,165,0,0.3);
-    /*fontは適当にしてる*/
-    font: 20px Arial, sans-serif;
   }
   .sdd-btn-emergency:hover{
     color: #FFA500;
